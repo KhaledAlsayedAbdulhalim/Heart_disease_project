@@ -7,8 +7,8 @@
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+ khaled +%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
-    <div align=center>
+<!--     </div>
+    <div align=center> -->
         <a href="https://www.linkedin.com/in/khaled-alsayed-904126253/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 <!--         <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
         <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
@@ -27,7 +27,7 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and artifictial intellegence.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <Problem-Solving></a></li>
+            <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving</a></li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/15KEsuk5hO2KBxNmyHBdzK-vrvmI9ObvR/view?usp=drivesdk">LINK TO MY RESUME</a>.</li>
 <!--             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li> -->
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
